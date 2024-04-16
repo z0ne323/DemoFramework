@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lemen\\Downloads\\DemoFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|c:\\users\\lemen\\downloads\\demoframework\\teamserver\\models\\agents\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\models\\agents\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|c:\\users\\lemen\\downloads\\demoframework\\teamserver\\services\\ilistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\services\\ilistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|c:\\users\\lemen\\downloads\\demoframework\\teamserver\\teamserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\teamserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|c:\\users\\lemen\\downloads\\demoframework\\teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|c:\\users\\lemen\\downloads\\demoframework\\teamserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D46DF5E-EB72-414B-9229-978A38A24F29}|TeamServer\\TeamServer.csproj|solutionrelative:teamserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Models\\Agents\\Agent.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Models\\Agents\\Agent.cs",
+              "ToolTip": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Models\\Agents\\Agent.cs",
+              "RelativeToolTip": "TeamServer\\Models\\Agents\\Agent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:31:02.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IListenerService.cs",
+              "DocumentMoniker": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Services\\IListenerService.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Services\\IListenerService.cs",
+              "ToolTip": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Services\\IListenerService.cs",
+              "RelativeToolTip": "TeamServer\\Services\\IListenerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:30:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamServer.csproj",
+              "DocumentMoniker": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\TeamServer.csproj",
+              "RelativeDocumentMoniker": "TeamServer\\TeamServer.csproj",
+              "ToolTip": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\TeamServer.csproj",
+              "RelativeToolTip": "TeamServer\\TeamServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T04:30:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Startup.cs",
+              "RelativeToolTip": "TeamServer\\Startup.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:25:47.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Program.cs",
+              "RelativeDocumentMoniker": "TeamServer\\Program.cs",
+              "ToolTip": "C:\\Users\\lemen\\Downloads\\DemoFramework\\TeamServer\\Program.cs",
+              "RelativeToolTip": "TeamServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:25:17.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
